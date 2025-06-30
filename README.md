@@ -83,4 +83,26 @@ Hello! I'm on a journey to become a Cloud Data Engineer, with a focus on scalabl
   실제 사용자 환경에서 발생한 문제들을 기반으로 보안 정책 설정 및 변경 제안을 진행한 경험이 있습니다.  
   → Adjusted security settings based on real-world user feedback and troubleshooting cases.
 
+## 📝 Blog
+
+I document my learning and projects on Tistory, focusing on cloud-based data engineering and system architecture.
+
+→ 클라우드 기반 데이터 엔지니어링과 시스템 아키텍처 관련 실습을 블로그에 기록하고 있습니다.
+
+📘 Tistory Blog: [Cloud Data Engineer 여](https://ww0610.tistory.com/)
+
+### 🔹 Featured Series
+- [Azure ML 시리즈]  https://ww0610.tistory.com/39
+  Azure Machine Learning 실습 (Designer, 모델 배포, AI Search 연동 등)
+
+- [3-Tier Architecture 구축기]  
+  AD + IIS + SQL Server로 구성한 전통적 아키텍처 구성 실습
+
+- [PowerShell + SharePoint 자동화]  
+  조직 전체 SharePoint 문서 대상 감도라벨 추출 스크립트 개발기
+
+- [Copilot Studio 실습기]  
+  Azure SQL과 연동된 Copilot 플러그인 개발 및 API 연동 흐름 정리
+
+
 
