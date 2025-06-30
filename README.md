@@ -4,7 +4,7 @@ Hello! I'm on a journey to become a Cloud Data Engineer, with a focus on scalabl
 こんにちは！クラウドネイティブなデータソリューションに取り組み、クラウドデータエンジニアを目指しています。
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
@@ -16,7 +16,7 @@ Hello! I'm on a journey to become a Cloud Data Engineer, with a focus on scalabl
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Copilot%20Studio-000000?style=flat&logo=githubcopilot&logoColor=white"/>
 
-## 📚 Featured Projects
+## Featured Projects
 
 ### 🔷 Azure + Copilot Studio
 - **Copilot Plugin Integration**  
@@ -83,15 +83,15 @@ Hello! I'm on a journey to become a Cloud Data Engineer, with a focus on scalabl
   실제 사용자 환경에서 발생한 문제들을 기반으로 보안 정책 설정 및 변경 제안을 진행한 경험이 있습니다.  
   → Adjusted security settings based on real-world user feedback and troubleshooting cases.
 
-## 📝 Blog
+## Blog
 
 I document my learning and projects on Tistory, focusing on cloud-based data engineering and system architecture.
 
 → 클라우드 기반 데이터 엔지니어링과 시스템 아키텍처 관련 실습을 블로그에 기록하고 있습니다.
 
-📘 Tistory Blog: [Cloud Data Engineer 여정](https://ww0610.tistory.com/)
+Tistory Blog: [Cloud Data Engineer 여정](https://ww0610.tistory.com/)
 
-### 🔹 Featured Series
+###  Featured Series
 - [Azure ML 시리즈]  
   Azure Machine Learning 실습 (Designer, 모델 배포, AI Search 연동 등)
 
@@ -103,6 +103,14 @@ I document my learning and projects on Tistory, focusing on cloud-based data eng
 
 - [Copilot Studio 실습기]  
   Azure SQL과 연동된 Copilot 플러그인 개발 및 API 연동 흐름 정리
+
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ww0610&show_icons=true&theme=tokyonight)](https://github.com/ww0610)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0610&layout=compact&theme=tokyonight)](https://github.com/ww0610)
+
 
 
 
