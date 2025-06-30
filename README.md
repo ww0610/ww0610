@@ -112,5 +112,14 @@ Tistory Blog: [Cloud Data Engineer 여정](https://ww0610.tistory.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0610&layout=compact&theme=tokyonight)](https://github.com/ww0610)
 
 
+## Contact
+
+- Email: [ww0610@naver.com](mailto:ww0610@naver.com)  
+- Blog: [https://ww0610.tistory.com](https://ww0610.tistory.com)  
+- LinkedIn: [https://www.linkedin.com/in/changjae-woo-602572315/](https://www.linkedin.com/in/changjae-woo-602572315/)  
+- Instagram: [https://www.instagram.com/4am_changjae](https://www.instagram.com/4am_changjae)
+
+
+
 
 
