@@ -89,7 +89,7 @@ I document my learning and projects on Tistory, focusing on cloud-based data eng
 
 → 클라우드 기반 데이터 엔지니어링과 시스템 아키텍처 관련 실습을 블로그에 기록하고 있습니다.
 
-📘 Tistory Blog: [Cloud Data Engineer 여](https://ww0610.tistory.com/)
+📘 Tistory Blog: [Cloud Data Engineer 여정](https://ww0610.tistory.com/)
 
 ### 🔹 Featured Series
 - [Azure ML 시리즈]  
