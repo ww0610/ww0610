@@ -92,7 +92,7 @@ I document my learning and projects on Tistory, focusing on cloud-based data eng
 📘 Tistory Blog: [Cloud Data Engineer 여](https://ww0610.tistory.com/)
 
 ### 🔹 Featured Series
-- [Azure ML 시리즈]  https://ww0610.tistory.com/39
+- [Azure ML 시리즈]  
   Azure Machine Learning 실습 (Designer, 모델 배포, AI Search 연동 등)
 
 - [3-Tier Architecture 구축기]  
